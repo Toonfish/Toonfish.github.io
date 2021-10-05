@@ -1,7 +1,7 @@
 [
   {
     "name": "Tutorial 1",
-    "message": "Swipe to move the green block out of the way to clear a path for the laser!",
+    "message": "Swipe to move the green block out of the way to clear a path for the laser! (On desktop use the arrow keys.)",
     "height": 5,
     "width": 3,
     "winConditions": [
